@@ -1,2 +1,2 @@
 # SacaiStoreAutocheckout
-Autocheckout for https://store.sacai.jp/
+Autocheckout script for https://store.sacai.jp/
