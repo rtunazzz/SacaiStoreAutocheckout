@@ -1,11 +1,21 @@
+# # # # #   MADE BY:    @rTUNAboss | rtuna#4321           # # # # #
+
+print(r'''
+ ____    ____   _   _  ______       __     __ _        
+|  _ \  / __ \ | \ | ||___  /    /\ \ \   / /(_)       
+| |_) || |  | ||  \| |   / /    /  \ \ \_/ /  _   ___  
+|  _ < | |  | || . ` |  / /    / /\ \ \   /  | | / _ \ 
+| |_) || |__| || |\  | / /__  / ____ \ | | _ | || (_) |
+|____/  \____/ |_| \_|/_____|/_/    \_\|_|(_)|_| \___/ 
+''')
+print(" • made by: rtuna#4321 | @rTunaboss")
+print(" • for personal use only")
+
 import requests
 from bs4 import BeautifulSoup as bs
 import json
 import re
 from jsoncomment import JsonComment
-# made by rTUNAboss
-# https://github.com/rtunaboss/SacaiATC
-# https://twitter.com/rTUNAboss
 import random
 import datetime
 import threading
